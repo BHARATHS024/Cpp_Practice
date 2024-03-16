@@ -1,4 +1,5 @@
 //Optimized approach(in-place shifting)
+//other approach - brute force method(copying all the elemnts to another array except the key.)
 #include<bits/stdc++.h>
 using namespace std;
 void rem(int arr[],int a,int c)
